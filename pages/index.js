@@ -16,9 +16,9 @@ export default function Home() {
     });
 </script>
       <main>
-        <Header title="Subdomain Takeover" />
+        <Header title="Benign" />
         <p className="description">
-          Get started by editing <code>by: karl aparece</code>
+          Get started by editing <code>by: Gitcoin</code>
         </p>
       </main>
 
